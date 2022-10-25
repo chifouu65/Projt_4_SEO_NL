@@ -564,6 +564,7 @@ a[data-lightbox]:hover::before {
     z-index: 1;
     position: absolute;
     top: 50%;
+    left: 50%;
     transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
 }
@@ -836,7 +837,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.png");
 }
 
 @media (max-width: 1024px) {
@@ -1067,4 +1068,12 @@ modif
 
 .row a:focus {
     border: red 1px solid;
+}
+
+.img-responsive_new {
+    display: inline-block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    justify-content: center;
 }
