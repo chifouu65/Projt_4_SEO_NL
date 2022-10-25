@@ -1055,3 +1055,16 @@ h4 {
         text-align: center;
     }
 }
+
+
+/*
+modif
+*/
+
+.nav::before a:hover {
+    background-color: red;
+}
+
+.row a:focus {
+    border: red 1px solid;
+}
