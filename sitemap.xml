@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://earnest-panda-b5b5af.netlify.app/</loc>
-  </url>
-  <url>
-    <loc>
-        <loc>https://earnest-panda-b5b5af.netlify.app/contact.html</loc>  
-    </loc>
-  </url>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://earnest-panda-b5b5af.netlify.app/</loc>
+  <lastmod>2022-10-29T09:34:35+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://earnest-panda-b5b5af.netlify.app/contact.html</loc>
+  <lastmod>2022-10-29T09:34:35+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
