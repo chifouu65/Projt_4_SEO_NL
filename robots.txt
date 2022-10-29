@@ -1,4 +1,3 @@
-User-agent: Googlebot
 User-agent: *
 
 Sitemap: https://earnest-panda-b5b5af.netlify.app/sitemap.xml
