@@ -5,6 +5,7 @@
     url(../fonts/et-line.woff) format('woff'),url(../fonts/et-line.ttf) format('truetype'),
     url(../fonts/et-line.svg#et-line) format('svg');
     font-weight:400;
+    font-display: swap;
     font-style:normal}.et-icon-adjustments,
     .et-icon-alarmclock,
     .et-icon-anchor
