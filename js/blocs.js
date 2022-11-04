@@ -1,4 +1,3 @@
-// Blocs.js Minified
 function setUpSpecialNavs() {
     $(".navbar-toggle").click(function(t) {
         var e = $(this).closest("nav"),
