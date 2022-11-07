@@ -2,7 +2,7 @@ body{margin:0;padding:0;background:#FFF;overflow-x:hidden;-webkit-font-smoothing
 
 @media screen and (max-width: 789px) {
     .bg-banniere {
-        max-height: 319px;
+        background-size: 300px 300px;
     }
 }
 .bg-banniere {background-image: url("img/bg-home-haut-min.jpeg");}.bg-presentation {background-image: url("img/bg-home-bas-min.jpeg");}
